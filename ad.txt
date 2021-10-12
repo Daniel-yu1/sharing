@@ -7,3 +7,4 @@ fr.investing.com##div.im-ad-matched.im-ad
 fr.investing.com##.css-sprite-icontwitter
 fr.investing.com##.css-sprite-iconfacebook
 fr.investing.com##.css-sprite-iconmail
+##.im-ad, .im-ad--fixed, .midpage, .im-ad-matched
