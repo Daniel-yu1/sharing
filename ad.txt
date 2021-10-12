@@ -1,5 +1,9 @@
 [Adblock Plus 2.0]
+! 2021-10-11 https://fr.investing.com
 fr.investing.com##.entry.category-uncategorized.has-post-thumbnail.format-standard.status-publish.type-post.post.post-761 > .entry-content > .im-ad-matched.midpage.im-ad--fixed.im-ad
 fr.investing.com##.im-ad-matched.midpage.im-ad--fixed.im-ad
 fr.investing.com##.entry.category-uncategorized.has-post-thumbnail.format-standard.status-publish.type-post.post.post-761 > .entry-content > div.im-ad-matched.im-ad
 fr.investing.com##div.im-ad-matched.im-ad
+fr.investing.com##.css-sprite-icontwitter
+fr.investing.com##.css-sprite-iconfacebook
+fr.investing.com##.css-sprite-iconmail
