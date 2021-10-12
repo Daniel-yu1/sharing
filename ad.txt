@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: nfZWpIqk9+adqFm1W/N08Q
+! Title: My AdFilters
+! Expires: 12 hours
+! Version: 202110120814
+! Last Modified: 2021年10月12日 08:14
+! Homepage: https://adf.minggo.eu.org
+! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
+! 并补充了贴吧过滤规则，感谢各位前辈的分享！
+! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
+!
+! Fix for MS Edge
+! Start
+fr.investing.com##.entry.category-uncategorized.has-post-thumbnail.format-standard.status-publish.type-post.post.post-761 > .entry-content > .im-ad-matched.midpage.im-ad--fixed.im-ad
+fr.investing.com##.im-ad-matched.midpage.im-ad--fixed.im-ad
+fr.investing.com##.entry.category-uncategorized.has-post-thumbnail.format-standard.status-publish.type-post.post.post-761 > .entry-content > div.im-ad-matched.im-ad
+fr.investing.com##div.im-ad-matched.im-ad
